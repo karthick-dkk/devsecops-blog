@@ -186,4 +186,3 @@ Medium Blog
 192. [What Are Enterprises Monitoring With These Days? Crystal Balls or These Tools?](https://medium.com/devsecops-community/what-are-enterprises-monitoring-with-these-days-crystal-balls-or-these-tools-073fca8d9841) - Nov 27, 2024 - 5 min read
 193. [A Pro Guide to Zabbix Alerts for Sneaky Configuration Changes!](https://medium.com/devsecops-community/a-pro-guide-to-zabbix-alerts-for-sneaky-configuration-changes-3270ce2c135f) - Nov 28, 2024 - 6 min read
 194. [Write With Us:DevSecops-Community](https://medium.com/devsecops-community/write-with-usdevsecops-community-8bb7c317d4e) - Oct 19, 2024 - 3 min read
-
