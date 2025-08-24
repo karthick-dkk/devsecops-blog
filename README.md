@@ -51,5 +51,39 @@ Medium Blog
 48. [How to Set Up SSH Login Menu with Dialog on Linux (Easy Guide!)](https://medium.com/aws-in-plain-english/how-to-set-up-ssh-login-menu-with-dialog-on-linux-easy-guide-c9f072b6b4bf) - Feb 9, 2025 - 6 min read
 49. [How to Set Up Zabbix Proxy with SQLite — A Step-by-Step Performance Guide](https://medium.com/devsecops-community/how-to-set-up-zabbix-proxy-with-sqlite-a-step-by-step-performance-guide-a13beff9f0b8) - Jul 11, 2025 - 7 min read
 50. [How Your SMS Travels from Phone to Phone: A Simple Explanation of the SMS Flow](https://medium.com/devsecops-community/how-your-sms-travels-from-phone-to-phone-a-simple-explanation-of-the-sms-flow-af7df5c9c106) - Dec 12, 2024 - 4 min read
-
+51. [In-Depth Guide to Managing Security in Linux for Production Environments](https://medium.com/devsecops-community/in-depth-guide-to-managing-security-in-linux-for-production-environments-9ae42d4e98ec) - Aug 11, 2025 - 4 min read
+52. [Is Multipass Really Better Than VMware or Hyper-V? Here's the Truth](https://medium.com/devsecops-community/is-multipass-really-better-than-vmware-or-hyper-v-heres-the-truth-83b3d663c753) - Aug 11, 2025 - 4 min read
+53. [Kubernetes: The Superhero You Might Not Need (Yet!)🦸‍♂️](https://medium.com/devsecops-community/kubernetes-the-superhero-you-might-not-need-yet-%EF%B8%8F-dc4712b73677) - Feb 14, 2025 - 3 min read
+54. [Linux Advanced Commands for Day-to-Day Activities for DevOps Engineers](https://medium.com/devsecops-community/linux-advanced-commands-for-day-to-day-activities-for-devops-engineers-abf51a7ff3a1) - Oct 18, 2024 - 6 min read
+55. [Linux Networking -Part 2: Mastering IPTables](https://medium.com/@karthidkk123/linux-networking-part-2-mastering-iptables-6282cd7364ef) - Jul 16, 2025 - 5 min read
+56. [Linux Networking -Part 3: Firewalld & UFW Best Guide — How to Allow/Block Efficiently](https://medium.com/devsecops-community/linux-networking-part-3-firewalld-ufw-best-guide-how-to-allow-block-efficiently-1512935d4d05) - Jul 18, 2025 - 4 min read
+57. [Linux Networking: IP Swapping Best Practices in Production Environments](https://medium.com/bugbountywriteup/linux-networking-ip-swapping-best-practices-in-production-environments-062304198fca) - Jul 15, 2025 - 4 min read
+58. [Linux Networking-Part-1: Netplan The IP Master](https://medium.com/devsecops-community/linux-networking-part-1-netplan-the-ip-master-8a6ea78a2f15) - Jul 14, 2025 - 4 min read
+59. [Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks](https://medium.com/@karthidkk123/linux-security-part-1-secure-your-server-with-faillock-against-brute-force-attacks-e4f0f34bd655) - Jul 18, 2025 - 4 min read
+60. [Lost our Server After Upgrading Ubuntu, How we lived?](https://medium.com/devsecops-community/lost-our-server-after-upgrading-ubuntu-how-we-lived-7d0f6c81d6c8) - Apr 27, 2025 - 4 min read
+61. [Master Windows Monitoring with Zabbix Agent in Active Mode](https://medium.com/devsecops-community/master-windows-monitoring-with-zabbix-agent-in-active-mode-9868220be0fb) - Nov 26, 2024 - 6 min read
+62. [Mastering Ansible for DevOps and Cloud](https://medium.com/devsecops-community/mastering-ansible-for-devops-and-cloud-1eebda28bf3a) - Dec 18, 2024 - 8 min read
+63. [Only One Script You Need for Monitor Linux !](https://medium.com/devsecops-community/only-one-script-you-need-for-monitor-linux-aa106e883d51) - Oct 20, 2024 - 8 min read
+64. [Project: Deploy a Simple Calculator Using AWS Cloud Formation](https://medium.com/devsecops-community/project-deploy-a-simple-calculator-using-aws-cloud-formation-ca1adf6c3e1d) - Jan 13, 2025 - 7 min read
+65. [Python → Go -Lang Convert](https://medium.com/devsecops-community/python-go-lang-convert-3c9e6fe74fff) - Dec 18, 2024 - 3 min read
+66. [Python vs GoLang in DevOps](https://medium.com/devsecops-community/python-vs-golang-in-devops-cfd6d8596ba6) - Dec 18, 2024 - 4 min read
+67. [Real-Time Production Project: How to Automate EC2 Autoscaling with Terraform for High Availability](https://medium.com/devsecops-community/real-time-production-project-how-to-automate-ec2-autoscaling-with-terraform-for-high-availability-37b014b2576c) - Nov 13, 2024 - 9 min read
+68. [Recover Ubuntu Root Password](https://medium.com/devsecops-community/recover-ubuntu-root-password-5a4d31a5a68a) - Dec 17, 2024 - 4 min read
+69. [Salt-SSH Agentless Monitoring: No Minions, No Hassle — Just Pure SSH Magic!](https://medium.com/devsecops-community/salt-ssh-agentless-monitoring-no-minions-no-hassle-just-pure-ssh-magic-7416a83587a5) - Feb 9, 2025 - 5 min read
+70. [SaltStack Secrets: The Art of Watching Users Without Breaking a Sweat](https://medium.com/devsecops-community/saltstack-secrets-the-art-of-watching-users-without-breaking-a-sweat-88cb4e163a18) - Dec 12, 2024 - 4 min read
+71. [Seamless SSH Access: Automating Linux Connectivity via Windows Jump Servers](https://medium.com/devsecops-community/seamless-ssh-access-automating-linux-connectivity-via-windows-jump-servers-4d7c6bf0aec7) - Feb 21, 2025 - 3 min read
+72. [SSH Hardening Guide: Secure Remote Access in Enterprise Environments](https://medium.com/devsecops-community/ssh-hardening-guide-secure-remote-access-in-enterprise-environments-1acb9c3cb4e2) - Apr 6, 2025 - 6 min read
+73. [SSH Like a Boss: Why Remember Hosts When Your Terminal Can Do It for You?](https://medium.com/devsecops-community/ssh-like-a-boss-why-remember-hosts-when-your-terminal-can-do-it-for-you-a7d9f8497548) - Mar 17, 2025 - 5 min read
+74. [Stock Trading Using Python API: Automate Like a Pro (No More FOMO!)](https://medium.com/python-in-plain-english/buy-sell-stocks-using-terminal-9ef7891349ff) - May 3, 2025 - 6 min read
+75. [The One Skill That Makes You Linux Pro: Real-Life Linux Troubleshooting](https://medium.com/devsecops-community/the-one-skill-that-makes-you-linux-pro-real-life-linux-troubleshooting-5b1cb5b9f850) - Jul 23, 2025 - 5 min read
+76. [Tmux vs Screen: The Cybersecurity Engineer's Ultimate Showdown in the Data Center](https://medium.com/@karthidkk123/tmux-vs-screen-the-cybersecurity-engineers-ultimate-showdown-in-the-data-center-696b9573b8b9) - Mar 24, 2025 - 4 min read
+77. [Tired of CloudWatch Bills? Monitor AWS EKS for Free with Zabbix!](https://medium.com/@karthidkk123/tired-of-cloudwatch-bills-monitor-aws-eks-for-free-with-zabbix-6644e9518275) - Jun 16, 2025 - 6 min read
+78. [Ultimate TMUX Guide for DevOps & Linux Engineers in 2025](https://medium.com/devsecops-community/ultimate-tmux-guide-for-devops-linux-engineers-in-2025-d95f5995aeaa) - Jun 9, 2025 - 5 min read
+79. [Vim: A Relic of the Past or the Secret Productivity Weapon?](https://medium.com/devsecops-community/vim-a-relic-of-the-past-or-the-secret-productivity-weapon-1861fa58c55e) - Aug 23, 2025 - 5 min read
+80. [We Lost Our Production Server! How We Survived Without SUDO](https://medium.com/devsecops-community/we-lost-our-production-server-how-we-survived-without-sudo-6b4b57d4a876) - Mar 29, 2025 - 4 min read
+81. [We Tried Swapping AWS Private IP— Here's Why It Didn't Work!](https://medium.com/devsecops-community/we-tried-swapping-aws-private-ip-heres-why-it-didn-t-work-8ddbbeecf6a9) - Mar 31, 2025 - 7 min read
+82. [Zabbix Agentless Monitoring for Linux (Enhanced): The Complete Step-by-Step Guide](https://medium.com/devsecops-community/zabbix-agentless-monitoring-for-linux-enhanced-the-complete-step-by-step-guide-18f6adfb32be) - Aug 17, 2025 - 6 min read
+83. [Zabbix Agentless Monitoring for Linux: A Complete Guide](https://medium.com/devsecops-community/zabbix-agentless-monitoring-for-linux-a-complete-guide-ec7bcee6647e) - Dec 29, 2024 - 6 min read
+84. [Zabbix Proxy: 7 Most Common Problems — Why Do We Really Need?](https://medium.com/devsecops-community/zabbix-proxy-7-most-common-problems-why-do-we-really-need-98608fc1a6db) - Jul 9, 2025 - 5 min read
+85. [Zabbix: Monitoring Elasticsearch Like a Stalker (But Legally)](https://medium.com/devsecops-community/zabbix-monitoring-elasticsearch-like-a-stalker-but-legally-656ae35d2926) - Jun 16, 2025 - 5 min read
 
