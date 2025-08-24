@@ -86,4 +86,30 @@ Medium Blog
 83. [Zabbix Agentless Monitoring for Linux: A Complete Guide](https://medium.com/devsecops-community/zabbix-agentless-monitoring-for-linux-a-complete-guide-ec7bcee6647e) - Dec 29, 2024 - 6 min read
 84. [Zabbix Proxy: 7 Most Common Problems — Why Do We Really Need?](https://medium.com/devsecops-community/zabbix-proxy-7-most-common-problems-why-do-we-really-need-98608fc1a6db) - Jul 9, 2025 - 5 min read
 85. [Zabbix: Monitoring Elasticsearch Like a Stalker (But Legally)](https://medium.com/devsecops-community/zabbix-monitoring-elasticsearch-like-a-stalker-but-legally-656ae35d2926) - Jun 16, 2025 - 5 min read
+86. [Are You Using AuditD to Its Full Potential? Discover Features You Can’t Afford to Miss!](https://medium.com/devsecops-community/are-you-using-auditd-to-its-full-potential-discover-features-you-cant-afford-to-miss-3b7f007fa93c) - Dec 9, 2024 - 5 min read
+87. [Dangerous Root Login Access](https://medium.com/devsecops-community/dangerous-root-login-access-eabe0e1bbf59) - Dec 6, 2024 - 5 min read
+88. [Day 4: User and Permission Management in Linux — Unleashing Your Inner Superuser!](https://medium.com/devsecops-community/day-4-user-and-permission-management-in-linux-unleashing-your-inner-superuser-99104e4b9a4f) - Oct 4, 2024 - 6 min read
+89. [Day 5: Automating Tasks with Bash Scripts: Part 1](https://medium.com/devsecops-community/day-5-automating-tasks-with-bash-scripts-part-1-92ca78df178e) - Oct 5, 2024 - 7 min read
+90. [Day 6: Automating Tasks with Bash Scripts: Part 2](https://medium.com/devsecops-community/day-6-automating-tasks-with-bash-scripts-part-2-10306b4ef4b8) - Oct 6, 2024 - 5 min read
+91. [Day 7: Understanding Processes and System Monitoring in Linux](https://medium.com/devsecops-community/day-7-understanding-processes-and-system-monitoring-in-linux-e6b3f49bbf65) - Oct 7, 2024 - 9 min read
+92. [Day 8: Networking Basics in Linux: IP, Ports, and Routing](https://medium.com/devsecops-community/day-8-networking-basics-in-linux-ip-ports-and-routing-72bc6fb4759d) - Oct 8, 2024 - 8 min read
+93. [Day 9: Disk Management and Filesystem Handling](https://medium.com/devsecops-community/day-9-disk-management-and-filesystem-handling-8e5e1d90f864) - Oct 9, 2024 - 10 min read
+94. [Debug Bash Script](https://medium.com/devsecops-community/debug-bash-script-306bd68aeffe) - Dec 18, 2024 - 2 min read
+95. [ELK: Steps to Convert 3 Nodes into a Single Node Cluster](https://medium.com/devsecops-community/elk-steps-to-convert-3-nodes-into-a-single-node-cluster-60cf2eec7ae2) - Oct 17, 2024 - 3 min read
+96. [How to Break Your Linux System: Unusable Command Examples You Should Avoid](https://medium.com/devsecops-community/how-to-break-your-linux-system-unusable-command-examples-you-should-avoid-5e056fd15099) - Oct 20, 2024 - 6 min read
+97. [How to Check if a Folder is Used by Services on Linux: A Step-by-Step Guide](https://medium.com/devsecops-community/how-to-check-if-a-folder-is-used-by-services-on-linux-a-step-by-step-guide-ecba5251c23b) - Oct 18, 2024 - 3 min read
+98. [How to Master K9s for Kubernetes Development 🚀](https://medium.com/@karthidkk123/how-to-master-k9s-for-kubernetes-development-6655adf06788) - Feb 18, 2025 - 4 min read
+99. [How to Run Ubuntu on Mac: Step-by-Step Setup for Apple Silicon (M1/M2 ) Users](https://medium.com/devsecops-community/how-to-run-ubuntu-on-mac-step-by-step-setup-for-apple-silicon-m1-m2-users-82553f672c33) - Nov 1, 2024 - 7 min read
+100. [How to Set Up ELK: A Beginner’s to Pro Guide (Part-1)](https://medium.com/devsecops-community/how-to-set-up-elk-a-beginners-to-pro-guide-part-1-59e0674d09c4) - Dec 11, 2024 - 8 min read
+101. [Is Your FortiGate Sleeping on the Job? Monitor It Like a Pro with Zabbix!](https://medium.com/devsecops-community/is-your-fortigate-sleeping-on-the-job-monitor-it-like-a-pro-with-zabbix-636819059f7b) - Nov 29, 2024 - 7 min read
+102. [Kubernetes: The Superhero You Might Not Need (Yet!)🦸‍♂️](https://medium.com/devsecops-community/kubernetes-the-superhero-you-might-not-need-yet-%EF%B8%8F-dc4712b73677) - Feb 14, 2025 - 3 min read
+103. [Linux Advanced Commands for Day-to-Day Activities for DevOps Engineers](https://medium.com/devsecops-community/linux-advanced-commands-for-day-to-day-activities-for-devops-engineers-abf51a7ff3a1) - Oct 18, 2024 - 6 min read
+104. [Linux Networking -Part 2: Mastering IPTables](https://medium.com/@karthidkk123/linux-networking-part-2-mastering-iptables-6282cd7364ef) - Jul 16, 2025 - 5 min read
+105. [Linux Networking -Part 3: Firewalld & UFW Best Guide — How to Allow/Block Efficiently](https://medium.com/devsecops-community/linux-networking-part-3-firewalld-ufw-best-guide-how-to-allow-block-efficiently-1512935d4d05) - Jul 18, 2025 - 4 min read
+106. [Linux Networking: IP Swapping Best Practices in Production Environments](https://medium.com/bugbountywriteup/linux-networking-ip-swapping-best-practices-in-production-environments-062304198fca) - Jul 15, 2025 - 4 min read
+107. [Linux Networking-Part-1: Netplan The IP Master](https://medium.com/devsecops-community/linux-networking-part-1-netplan-the-ip-master-8a6ea78a2f15) - Jul 14, 2025 - 4 min read
+108. [Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks](https://medium.com/@karthidkk123/linux-security-part-1-secure-your-server-with-faillock-against-brute-force-attacks-e4f0f34bd655) - Jul 18, 2025 - 4 min read
+109. [Lost our Server After Upgrading Ubuntu, How we lived?](https://medium.com/devsecops-community/lost-our-server-after-upgrading-ubuntu-how-we-lived-7d0f6c81d6c8) - Apr 27, 2025 - 4 min read
+110. [Top 10 Reasons Why Your Nginx Fails? How to Fix It](https://medium.com/devsecops-community/top-10-reasons-why-your-nginx-fails-how-to-fix-it-d13eddf0636e) - Oct 21, 2024 - 4 min read
+
 
