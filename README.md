@@ -1,8 +1,56 @@
 # Blog
 Medium Blog
 
- [GitHub Pages](https://pages.github.com/)
+- [Vim: A Relic of the Past or the Secret Productivity Weapon?](https://medium.com/devsecops-community/vim-a-relic-of-the-past-or-the-secret-productivity-weapon-1861fa58c55e) - Aug 23, 2025 - 5 min read
+- [Zabbix Agentless Monitoring for Linux (Enhanced): The Complete Step-by-Step Guide](https://medium.com/devsecops-community/zabbix-agentless-monitoring-for-linux-enhanced-the-complete-step-by-step-guide-18f6adfb32be) - Aug 17, 2025 - 6 min read
+- [Is Multipass Really Better Than VMware or Hyper-V? Here's the Truth](https://medium.com/devsecops-community/is-multipass-really-better-than-vmware-or-hyper-v-heres-the-truth-83b3d663c753) - Aug 11, 2025 - 4 min read
+- [In-Depth Guide to Managing Security in Linux for Production Environments](https://medium.com/devsecops-community/in-depth-guide-to-managing-security-in-linux-for-production-environments-9ae42d4e98ec) - Aug 11, 2025 - 4 min read
+- [The One Skill That Makes You Linux Pro: Real-Life Linux Troubleshooting](https://medium.com/devsecops-community/the-one-skill-that-makes-you-linux-pro-real-life-linux-troubleshooting-5b1cb5b9f850) - Jul 23, 2025 - 5 min read
+- [Essential Bash Scripting for Beginners - Linux Power is Here](https://medium.com/devsecops-community/essential-bash-scripting-for-beginners-linux-power-is-here-985dbf44810d) - Jul 21, 2025 - 9 min read
+- [Linux Security Part 1: Secure Your Server with faillock Against Brute-Force Attacks](https://medium.com/@karthidkk123/linux-security-part-1-secure-your-server-with-faillock-against-brute-force-attacks-e4f0f34bd655) - Jul 18, 2025 - 4 min read
+- [Linux Networking -Part 3: Firewalld & UFW Best Guide — How to Allow/Block Efficiently](https://medium.com/devsecops-community/linux-networking-part-3-firewalld-ufw-best-guide-how-to-allow-block-efficiently-1512935d4d05) - Jul 18, 2025 - 4 min read
+- [Linux Networking -Part 2: Mastering IPTables](https://medium.com/@karthidkk123/linux-networking-part-2-mastering-iptables-6282cd7364ef) - Jul 16, 2025 - 5 min read
+- [Linux Networking: IP Swapping Best Practices in Production Environments](https://medium.com/bugbountywriteup/linux-networking-ip-swapping-best-practices-in-production-environments-062304198fca) - Jul 15, 2025 - 4 min read
+- [Linux Networking-Part-1: Netplan The IP Master](https://medium.com/devsecops-community/linux-networking-part-1-netplan-the-ip-master-8a6ea78a2f15) - Jul 14, 2025 - 4 min read
+- [How to Set Up Zabbix Proxy with SQLite — A Step-by-Step Performance Guide](https://medium.com/devsecops-community/how-to-set-up-zabbix-proxy-with-sqlite-a-step-by-step-performance-guide-a13beff9f0b8) - Jul 11, 2025 - 7 min read
+- [Zabbix Proxy: 7 Most Common Problems — Why Do We Really Need?](https://medium.com/devsecops-community/zabbix-proxy-7-most-common-problems-why-do-we-really-need-98608fc1a6db) - Jul 9, 2025 - 5 min read
+- [How to Enable Zabbix Report Generation on Zabbix 7.0 LTS (Ubuntu)](https://medium.com/@karthidkk123/how-to-enable-zabbix-report-generation-on-zabbix-7-0-lts-ubuntu-5ad8d451fcb3) - Jun 30, 2025 - 3 min read
+- [Ansible: The Batman of Automation vs Salt-SSH: The Joker Who Doesn't Play by YAML](https://medium.com/@karthidkk123/ansible-the-batman-of-automation-vs-salt-ssh-the-joker-who-doesnt-play-by-yaml-c0e94d2871c1) - Jun 17, 2025 - 5 min read
+- [Bash in Stealth Mode: How to Encrypt Shell Scripts Like a CIA Operative](https://medium.com/devsecops-community/bash-in-stealth-mode-how-to-encrypt-shell-scripts-like-a-cia-operative-487c2a9c7d5a) - Jun 17, 2025 - 3 min read
+- [Zabbix: Monitoring Elasticsearch Like a Stalker (But Legally)](https://medium.com/devsecops-community/zabbix-monitoring-elasticsearch-like-a-stalker-but-legally-656ae35d2926) - Jun 16, 2025 - 5 min read
+- [Tired of CloudWatch Bills? Monitor AWS EKS for Free with Zabbix!](https://medium.com/@karthidkk123/tired-of-cloudwatch-bills-monitor-aws-eks-for-free-with-zabbix-6644e9518275) - Jun 16, 2025 - 6 min read
+- [AI Prompts for Troubleshoot Everything in DevOps (Except Your Sleep Schedule)?](https://medium.com/devsecops-community/ai-prompts-for-troubleshoot-everything-in-devops-except-your-sleep-schedule-05578e5fccc5) - Jun 15, 2025 - 5 min read
+- [ELK Stack in Containers: Step-by-Step Deployment Guide for Beginners](https://medium.com/devsecops-community/elk-stack-in-containers-step-by-step-deployment-guide-for-beginners-ec51c7281324) - Jun 11, 2025 - 5 min read
+- [Ultimate TMUX Guide for DevOps & Linux Engineers in 2025](https://medium.com/devsecops-community/ultimate-tmux-guide-for-devops-linux-engineers-in-2025-d95f5995aeaa) - Jun 9, 2025 - 5 min read
+- [How to Configure Email Alerts in Zabbix: Step-by-Step Guide for DevOps Teams](https://medium.com/devsecops-community/how-to-configure-email-alerts-in-zabbix-step-by-step-guide-for-devops-teams-2f3f3e68fcee) - Jun 8, 2025 - 4 min read
+- [From Kubernetes to Candlesticks: When DevOps Engineers Try Trading?](https://medium.com/@karthidkk123/from-kubernetes-to-candlesticks-when-devops-engineers-try-trading-05e92127356d) - May 20, 2025 - 6 min read
+- [Stock Trading Using Python API: Automate Like a Pro (No More FOMO!)](https://medium.com/python-in-plain-english/buy-sell-stocks-using-terminal-9ef7891349ff) - May 3, 2025 - 6 min read
+- [Day 44: Kubernetes Networking — Services, Ingress, and Load Balancing (Traffic Jam Solved!)](https://medium.com/devsecops-community/day-44-kubernetes-networking-services-ingress-and-load-balancing-traffic-jam-solved-f9e33ccf6df6) - May 2, 2025 - 4 min read
+- [Day 43: Autoscaling in Kubernetes — HPA and VPA (Because Even Apps Need to Flex! )](https://medium.com/devsecops-community/day-43-autoscaling-in-kubernetes-hpa-and-vpa-because-even-apps-need-to-flex-0495705c3e28) - May 2, 2025 - 3 min read
+- [Day 42: Managing Configurations with ConfigMaps and Secrets — Kubernetes Magic!](https://medium.com/devsecops-community/day-42-managing-configurations-with-configmaps-and-secrets-kubernetes-magic-112b98c46d91) - May 2, 2025 - 5 min read
+- [Is Watching Linux Tutorials Enough to Become Pro? (Or Are We Just Fooling Ourselves?)](https://medium.com/devsecops-community/is-watching-linux-tutorials-enough-to-become-pro-or-are-we-just-fooling-ourselves-28497f8d46d1) - Apr 27, 2025 - 4 min read
+- [Lost our Server After Upgrading Ubuntu, How we lived?](https://medium.com/devsecops-community/lost-our-server-after-upgrading-ubuntu-how-we-lived-7d0f6c81d6c8) - Apr 27, 2025 - 4 min read
+- [Nginx VA Fix — Upgrade from 1.18 to 1.26.x with Ansible](https://medium.com/devsecops-community/nginx-va-fix-upgrade-from-1-18-to-1-26-x-with-ansible-93581c66f364) - Apr 22, 2025 - 3 min read
+- [SSH Hardening Guide: Secure Remote Access in Enterprise Environments](https://medium.com/devsecops-community/ssh-hardening-guide-secure-remote-access-in-enterprise-environments-1acb9c3cb4e2) - Apr 6, 2025 - 6 min read
+- [We Tried Swapping AWS Private IP— Here's Why It Didn't Work!](https://medium.com/devsecops-community/we-tried-swapping-aws-private-ip-heres-why-it-didn-t-work-8ddbbeecf6a9) - Mar 31, 2025 - 7 min read
+- [We Lost Our Production Server! How We Survived Without SUDO](https://medium.com/devsecops-community/we-lost-our-production-server-how-we-survived-without-sudo-6b4b57d4a876) - Mar 29, 2025 - 4 min read
+- [How Cyber Security Engineers Are Fixing Vulnerability Assessments (VA) on Servers](https://medium.com/devsecops-community/how-cyber-security-engineers-are-fixing-vulnerability-assessments-va-on-servers-053454b43181) - Mar 27, 2025 - 3 min read
+- [Tmux vs Screen: The Cybersecurity Engineer's Ultimate Showdown in the Data Center](https://medium.com/@karthidkk123/tmux-vs-screen-the-cybersecurity-engineers-ultimate-showdown-in-the-data-center-696b9573b8b9) - Mar 24, 2025 - 4 min read
+- [🐧 Not Upgraded yet ? Ubuntu 20.04 to 22.04 (Without Breaking Production!)](https://medium.com/devsecops-community/upgraded-ubuntu-20-04-to-22-04-without-breaking-production-04c4867acbb7) - Mar 22, 2025 - 7 min read
+- [SSH Like a Boss: Why Remember Hosts When Your Terminal Can Do It for You?](https://medium.com/devsecops-community/ssh-like-a-boss-why-remember-hosts-when-your-terminal-can-do-it-for-you-a7d9f8497548) - Mar 17, 2025 - 5 min read
+- [All-in-One Zabbix Blog: The Ultimate Guide to Monitoring Everything](https://medium.com/devsecops-community/all-in-one-zabbix-blog-the-ultimate-guide-to-monitoring-everything-c31ad804af9c) - Mar 10, 2025 - 4 min read
+- [Seamless SSH Access: Automating Linux Connectivity via Windows Jump Servers](https://medium.com/devsecops-community/seamless-ssh-access-automating-linux-connectivity-via-windows-jump-servers-4d7c6bf0aec7) - Feb 21, 2025 - 3 min read
+- [How to Access Windows Server via SSH: A Complete Guide](https://medium.com/system-weakness/how-to-access-windows-server-via-ssh-a-complete-guide-426b2d260b73) - Feb 21, 2025 - 8 min read
+- [How to Master K9s for Kubernetes Development 🚀](https://medium.com/@karthidkk123/how-to-master-k9s-for-kubernetes-development-6655adf06788) - Feb 18, 2025 - 4 min read
+- [Day 41: K8s Nginx Project: Deploy Your First Application on Kubernetes](https://medium.com/devsecops-community/day-41-k8s-nginx-project-deploy-your-first-application-on-kubernetes-517604a4419d) - Feb 18, 2025 - 4 min read
+- [Day 40: Understanding Kubernetes Architecture — Nodes, Pods, and Services](https://medium.com/devsecops-community/day-40-understanding-kubernetes-architecture-nodes-pods-and-services-f577c920f385) - Feb 17, 2025 - 3 min read
+- [Kubernetes: The Superhero You Might Not Need (Yet!)🦸‍♂️](https://medium.com/devsecops-community/kubernetes-the-superhero-you-might-not-need-yet-%EF%B8%8F-dc4712b73677) - Feb 14, 2025 - 3 min read
+- [Day 39: Setting Up a Kubernetes Cluster — Minikube & Kubeadm](https://medium.com/@karthidkk123/day-39-setting-up-a-kubernetes-cluster-minikube-kubeadm-d95a74bf3254) - Feb 14, 2025 - 3 min read
+- [Generate Server Resource Summary Report using SALT (Agentless)](https://medium.com/stackademic/generate-server-resource-summary-report-using-salt-agentless-a28c31b8b4a4) - Feb 13, 2025 - 8 min read
+- [Day 38: Introduction to Kubernetes — The Evolution of Container Orchestration 🚀](https://medium.com/@karthidkk123/day-38-introduction-to-kubernetes-the-evolution-of-container-orchestration-d124bd302394) - Feb 10, 2025 - 4 min read
+- [Salt-SSH Agentless Monitoring: No Minions, No Hassle — Just Pure SSH Magic!](https://medium.com/devsecops-community/salt-ssh-agentless-monitoring-no-minions-no-hassle-just-pure-ssh-magic-7416a83587a5) - Feb 9, 2025 - 5 min read
+- [Day 37: Integrating Jenkins with Slack and Email for Notifications 🚀](https://medium.com/devsecops-community/day-37-integrating-jenkins-with-slack-and-email-for-notifications-2d058dc6078d) - Feb 9, 2025 - 4 min read
+- [Day 36: Setting Up Jenkins Master-Slave Architecture 🚀](https://medium.com/devsecops-community/day-36-setting-up-jenkins-master-slave-architecture-ed8b927cba4d) - Feb 9, 2025 - 5 min read
+- [Day 35: Jenkins Pipelines for Docker-Based Projects 🚀](https://medium.com/devsecops-community/day-35-jenkins-pipelines-for-docker-based-projects-335268fdb848) - Feb 9, 2025 - 3 min read
+- [How to Set Up SSH Login Menu with Dialog on Linux (Easy Guide!)](https://medium.com/aws-in-plain-english/how-to-set-up-ssh-login-menu-with-dialog-on-linux-easy-guide-c9f072b6b4bf) - Feb 9, 2025 - 6 min read
 
-https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@karthidkk123&index=1&source=medium
-
-https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@karthidkk123&index=0&source=medium
